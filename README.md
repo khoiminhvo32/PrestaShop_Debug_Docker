@@ -31,3 +31,9 @@
 }
 
 ```
+![alt text](https://raw.githubusercontent.com/khoiminhvo32/PrestaShop_Debug_Docker/main/vscodePic/Screenshot_1.png)
+### Step 5:
+- Use this command to build up the Project: `docker-compose up`
+
+### Step 6:
+- After finish building the Project, choose a specific `.php` file and press `f5` to debug
