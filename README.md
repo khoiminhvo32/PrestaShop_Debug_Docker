@@ -3,8 +3,8 @@
 ### Step 1:
 - Clone the main Source code from here: https://github.com/PrestaShop/PrestaShop
 ### Step 2:
-- Copy this Dockerfile and paste over the Dockerfile of PrestaShop
-- Copy this docker-compose.yml and paste over the docker-compose.yml of PrestaShop
+- Copy this `Dockerfile` and paste over the `Dockerfile` of PrestaShop
+- Copy this `docker-compose.yml` and paste over the `docker-compose.yml` of PrestaShop
 
 ### Step 3:
 - Copy these 2 config files: `php.ini` and `docker-php-ext-xdebug.ini` and place them in the `config` folder
