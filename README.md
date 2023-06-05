@@ -8,7 +8,7 @@
 - Copy these 2 config files: `php.ini` and `docker-php-ext-xdebug.ini` and place them in the `config` folder
 
 ### Step 3:
-- Create a `.vscode` folder contains a `launch.json` file with this content:
+- Create a `.vscode` folder (this folder is placed INSIDE the `PrestaShop` folder) contains a `launch.json` file with this content:
 ```json
 {
     // Use IntelliSense to learn about possible attributes.
