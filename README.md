@@ -36,4 +36,4 @@
 - Use this command to build up the Project: `docker-compose up`
 
 ### Step 6:
-- After finish building the Project, choose a specific `.php` file and press `f5` to debug
+- After finish building up the Project, choose a specific `.php` file and press `f5` to debug
